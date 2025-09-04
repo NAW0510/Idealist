@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583244811181",
+    "project_id": "idealistnew",
+    "storage_bucket": "idealistnew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583244811181:android:6511b2aa1e37f8db9eef24",
+        "android_client_info": {
+          "package_name": "com.anonymous.Idealist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583244811181-o83evqhm62e7ktbrfccgmlos8m8uksul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS-oUuhDYb8xzYI59zG6PcRUdzoKPQknU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583244811181-o83evqhm62e7ktbrfccgmlos8m8uksul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
